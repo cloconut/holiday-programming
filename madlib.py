@@ -1,0 +1,5 @@
+noun = input("enter a noun: ")
+verb = input("enter a verb: ")
+adjective = input("enter an adjective: ")
+adverb = input("enter an adverb: ")
+print(f"the {adjective} {noun} is {adverb} {verb} towards you")
